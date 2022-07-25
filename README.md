@@ -37,6 +37,9 @@ Steps:
 
 ## Resources
 https://drive.google.com/file/d/11PW4RD2VnE5qdiQ0eb64LmvUVnOauzhp/view?usp=sharing
+
 https://developer.spotify.com/documentation/web-api/
+
 https://support.spotify.com/uk/article/data-rights-and-privacy-settings/
+
 https://support.spotify.com/uk/article/understanding-my-data/
