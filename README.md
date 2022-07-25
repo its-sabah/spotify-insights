@@ -32,8 +32,12 @@ Steps:
       https://drive.google.com/file/d/11PW4RD2VnE5qdiQ0eb64LmvUVnOauzhp/view?usp=sharing
   2.	In the script, go to the `if __name__=="__main__"` section, and change the CSV path 
   3.  Click run
-  4.   ....
-  5.  Profit $$
+  4.  Answer user input question
+  5.   ....
+  6.  Profit $$
+
+![image](https://user-images.githubusercontent.com/76456127/180777615-d4a3b2db-3b8b-4185-97ec-5c8712593e02.png)
+
 
 ## Resources
 https://drive.google.com/file/d/11PW4RD2VnE5qdiQ0eb64LmvUVnOauzhp/view?usp=sharing
